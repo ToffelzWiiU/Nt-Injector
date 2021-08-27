@@ -1,0 +1,10 @@
+C:\Users\valer\source\repos\Nt Injector\bin\Debug\Nt Injector.exe.config
+C:\Users\valer\source\repos\Nt Injector\bin\Debug\Nt Injector.exe
+C:\Users\valer\source\repos\Nt Injector\bin\Debug\Nt Injector.pdb
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\NtInjector.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\Cour_Csharp_pour_nt.Form1.resources
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\NtInjector.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\NtInjector.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\Nt Injector.exe
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\Nt Injector.pdb
+C:\Users\valer\source\repos\Nt Injector\obj\Debug\Nt_Injector.Properties.Resources.resources

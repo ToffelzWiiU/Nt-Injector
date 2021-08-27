@@ -1,0 +1,10 @@
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Cour Csharp pour nt.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Cour_Csharp_pour_nt.Form1.resources
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Cour_Csharp_pour_nt.Properties.Resources.resources
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Cour Csharp pour nt.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Cour Csharp pour nt.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Cour Csharp pour nt\bin\Debug\Nt Injector.exe.config
+C:\Users\valer\source\repos\Cour Csharp pour nt\bin\Debug\Nt Injector.exe
+C:\Users\valer\source\repos\Cour Csharp pour nt\bin\Debug\Nt Injector.pdb
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Nt Injector.exe
+C:\Users\valer\source\repos\Cour Csharp pour nt\obj\Debug\Nt Injector.pdb

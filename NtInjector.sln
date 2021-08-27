@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtInjector", "NtInjector.csproj", "{F60DDE94-3B5A-45F3-84A7-F225D80CF619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60DDE94-3B5A-45F3-84A7-F225D80CF619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60DDE94-3B5A-45F3-84A7-F225D80CF619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60DDE94-3B5A-45F3-84A7-F225D80CF619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60DDE94-3B5A-45F3-84A7-F225D80CF619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1C4D71-1607-480B-875A-3206EAE31FF2}
+	EndGlobalSection
+EndGlobal
